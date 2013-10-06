@@ -329,7 +329,7 @@ about	IN
 every	DT
 sin	NN
 an	DT
-online	JJ
+online	NN
 marketer	NN
 could	MD
 commit	VB
@@ -636,8 +636,8 @@ It	PRP
 a	DT
 little	RB
 hard	JJ
-to	TO
-parse	VB
+to	IN
+parse	NN
 ,	,
 but	CC
 at	IN
@@ -1210,7 +1210,7 @@ from	IN
 another	DT
 bomber	NN
 some	DT
-pesky	RB
+pesky	JJ
 dark	JJ
 -	HYPH
 skinned	VBN
@@ -1654,7 +1654,7 @@ alleged	VBN
 in	IN
 the	DT
 book	NN
-Disposable	JJ
+Disposable	NNP
 Patriot	NNP
 ,	,
 by	IN
@@ -1888,7 +1888,7 @@ C	NNP
 -	HYPH
 4	CD
 to	IN
-Quaddaffi	FW
+Quaddaffi	NNP
 .	.
 
 The	DT
@@ -2106,7 +2106,7 @@ government	NN
 .	.
 '	''
 
-http://www.bigeye.com/111003.htm	VB
+http://www.bigeye.com/111003.htm	NN
 
 http://www.thekcrachannel.com/news/4503872/detail.html	VB
 
@@ -2120,7 +2120,7 @@ head	NN
 again	RB
 in	IN
 Louisianna	NNP
-..	JJ
+..	NN
 
 Former	JJ
 Pastor	NNP
@@ -2499,7 +2499,7 @@ that	WDT
 's	VBZ
 a	DT
 great	JJ
-blog	NN
+blog	VBG
 ,	,
 I	PRP
 also	RB
@@ -2507,7 +2507,7 @@ have	VBP
 a	DT
 site	NN
 about	IN
-los	AFX
+los	NNS
 angeles	NNS
 online	VB
 dating	VBG
@@ -2518,7 +2518,7 @@ check	VB
 it	PRP
 out	RP
 :	:
-los	AFX
+los	NNS
 angeles	NNS
 online	VB
 dating	VBG
@@ -2527,7 +2527,7 @@ This	DT
 is	VBZ
 a	DT
 excellent	JJ
-blog	NN
+blog	VBG
 .	.
 
 Keep	VB
@@ -3017,7 +3017,7 @@ guns	NNS
 ,	,
 from	IN
 the	DT
-90s	FW
+90s	NNS
 Bosnian	JJ
 war	NN
 ,	,
@@ -3387,7 +3387,7 @@ Rev.	NNP
 Gerald	NNP
 Robinson	NNP
 appeared	VBD
-stony	JJ
+stony	NN
 -	HYPH
 faced	VBN
 as	IN
@@ -3480,7 +3480,7 @@ symbol	NN
 .	.
 
 An	DT
-altar	JJ
+altar	JJR
 cloth	NN
 was	VBD
 draped	VBN
@@ -3510,7 +3510,7 @@ about	RB
 how	WRB
 he	PRP
 could	MD
-humiliate	VB
+humiliate	NN
 her	PRP
 the	DT
 most	RBS
@@ -4058,8 +4058,8 @@ sect	VBP
 began	VBD
 to	TO
 use	VB
-secluded	JJ
-compounds	UH
+secluded	VBN
+compounds	NNS
 ,	,
 state	NN
 and	CC
@@ -4210,7 +4210,7 @@ able	JJ
 to	TO
 bring	VB
 evil	JJ
-unto	FW
+unto	IN
 the	DT
 earth	NN
 ,	,
@@ -4328,7 +4328,7 @@ Loose	NNP
 AK47's	NNPS
 ?	.
 
-"	VBZ
+"	VBD
 There	EX
 's	VBZ
 no	DT
@@ -4372,7 +4372,7 @@ your	PRP$
 regularly	RB
 scheduled	VBN
 programming	NN
-....	JJ
+....	NN
 
 just	RB
 go	VB
@@ -4515,7 +4515,7 @@ there	EX
 is	VBZ
 no	DT
 abuse	NN
-invovled	VBN
+invovled	VBD
 .	.
 
 It	PRP
@@ -5478,7 +5478,7 @@ gotten	VBN
 to	TO
 be	VB
 something	NN
-weirder	NN
+weirder	RBR
 .	.
 
 It	PRP
@@ -5534,8 +5534,8 @@ to	TO
 Satan	NNP
 "	NN
 
-Hmmmmmm	UH
-....................	JJ
+Hmmmmmm	NNP
+....................	NN
 
 The	DT
 people	NNS
@@ -5596,7 +5596,7 @@ some	DT
 information	NN
 into	IN
 it	PRP
-....	JJ
+....	NN
 
 http://en.wikipedia.org/wiki/Aerocom	JJ
 
@@ -6157,7 +6157,7 @@ of	IN
 morality	NN
 :	:
 
-http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	VB
+http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	NN
 
 One	CD
 man	NN
@@ -6228,7 +6228,7 @@ the	DT
 Midnight	NNP
 -	HYPH
 the	DT
-centre	FW
+centre	NN
 of	IN
 the	DT
 heavy	JJ
@@ -6566,7 +6566,7 @@ Nazareth	NNP
 I	PRP
 know	VBP
 ,	,
-ignorant	JJ
+ignorant	NN
 question	NN
 )	)
 Then	RB
@@ -6825,8 +6825,8 @@ the	DT
 Entartete	JJ
 Kunst	FW
 (	(
-Degenerate	JJ
-Art	NN
+Degenerate	NNP
+Art	NNP
 )	)
 exhibit	NN
 of	IN
@@ -6888,7 +6888,7 @@ Nordau	NNP
 was	VBD
 also	RB
 the	DT
-co	UH
+co	FW
 founder	NN
 of	IN
 the	DT
@@ -7041,7 +7041,7 @@ This	DT
 is	VBZ
 where	WRB
 the	DT
-socio	FW
+socio	AFX
 -	HYPH
 political	JJ
 aspect	NN
@@ -7208,7 +7208,7 @@ gun	NN
 guns	NNS
 means	VBZ
 1000	CD
-tonnes	UH
+tonnes	NNS
 ,	,
 impossible	JJ
 for	IN
@@ -7634,7 +7634,7 @@ today	NN
 ?	.
 
 by	IN
-exmearden	VBN
+exmearden	NN
 
 Fri	NNP
 May	NNP
@@ -7687,7 +7687,7 @@ of	IN
 Executive	NNP
 Order	NNP
 13011	CD
-....	JJ
+....	NN
 
 I	PRP
 ca	MD
@@ -7904,7 +7904,7 @@ American	JJ
 culture	NN
 .	.
 
-Shall	VB
+Shall	NNP
 we	PRP
 censor	VBP
 the	DT
@@ -8187,7 +8187,7 @@ Sub-cultures	NNPS
 (	(
 as	RB
 the	DT
-lable	JJ
+lable	NN
 implies	VBZ
 )	)
 do	VBP
@@ -8277,7 +8277,7 @@ respect	NN
 for	IN
 people	NNS
 who	WP
-adhear	VB
+adhear	VBP
 to	TO
 non-violence	NN
 ,	,
@@ -8544,7 +8544,7 @@ theme	NN
 say	VBP
 ?	.
 
-"	VBG
+"	VB
 THE	DT
 PRESIDENT	NNP
 :	:
@@ -8860,9 +8860,9 @@ have	VBP
 .	.
 
 The	DT
-hymn	FW
-talks	VBZ
-about	RB
+hymn	VBN
+talks	NNS
+about	IN
 serving	VBG
 something	NN
 greater	JJR
@@ -8982,7 +8982,7 @@ he	PRP
 already	RB
 has	VBZ
 a	DT
-memoir	FW
+memoir	VBP
 called	VBN
 "	VB
 A	DT
@@ -9265,9 +9265,9 @@ of	IN
 the	DT
 relief	NN
 aid	NN
-that	WDT
-Darfur	NNP
-needs	VBZ
+that	IN
+Darfur	PRP$
+needs	NNS
 ,	,
 according	VBG
 to	IN
@@ -9856,7 +9856,7 @@ These	DT
 are	VBP
 1	CD
 )	)
-Assassinate	RB
+Assassinate	NNP
 or	CC
 overthrow	VB
 Gen.	NNP
@@ -10095,7 +10095,7 @@ most	JJS
 al	JJ
 -	HYPH
 Qaeda	NNP
-crackpot	JJ
+crackpot	NN
 schemes	NNS
 .	.
 
@@ -10753,9 +10753,9 @@ the	DT
 western	JJ
 city	NN
 of	IN
-Falluja	FW
+Falluja	NNP
 (	(
-pop.	CD
+pop.	FW
 256,000	CD
 )	)
 as	IN
@@ -10893,7 +10893,7 @@ US	NNP
 commanders	NNS
 .	.
 
-Falluja	FW
+Falluja	NNP
 has	VBZ
 long	RB
 been	VBN
@@ -11147,7 +11147,7 @@ Sharon	NNP
 murder	NN
 of	IN
 Sheikh	UH
-Ahmed	VBN
+Ahmed	NNP
 Yassin	NNP
 ,	,
 a	DT
@@ -11170,8 +11170,8 @@ in	IN
 Fallujah	UH
 ,	,
 50	CD
-km	VB
-west	RB
+km	NN
+west	NN
 of	IN
 Baghdad	UH
 ,	,
@@ -12793,7 +12793,7 @@ Revolutionary	NNP
 Guards	NNPS
 .	.
 
-Anti-Israeli	NNP
+Anti-Israeli	JJ
 and	CC
 pro-Palestinian	JJ
 feeling	NN
@@ -12843,7 +12843,7 @@ Israeli	JJ
 assassination	NN
 of	IN
 Sheikh	UH
-Ahmed	VBN
+Ahmed	NNP
 Yassin	NNP
 ,	,
 the	DT
@@ -13046,7 +13046,7 @@ Palestinians	NNPS
 and	CC
 those	DT
 in	IN
-post-Saddam	VBP
+post-Saddam	JJ
 Iraq	NNP
 are	VBP
 no	DT
@@ -13058,7 +13058,7 @@ Saddam	NNP
 Hussein	NNP
 's	POS
 dictatorship	NN
-ensured	JJ
+ensured	VBN
 that	IN
 such	JJ
 populist	JJ
@@ -13207,7 +13207,7 @@ has	VBZ
 spread	VBN
 throughout	IN
 the	DT
-Muslim	UH
+Muslim	NNP
 world	NN
 ,	,
 including	VBG
@@ -13341,7 +13341,7 @@ him	PRP
 by	IN
 his	PRP$
 own	JJ
-petard	NN
+petard	RB
 .	.
 
 Let	NNP
@@ -13579,8 +13579,8 @@ Bush	NNP
 Hiller	NNP
 replied	VBD
 :	:
-"	UH
-No	UH
+"	RB
+No	RB
 ,	,
 it	PRP
 's	VBZ
@@ -13900,7 +13900,7 @@ to	IN
 power	NN
 as	IN
 a	DT
-warmonger	NN
+warmonger	JJR
 .	.
 
 I	PRP
@@ -13926,7 +13926,7 @@ remember	VBP
 him	PRP
 stuttering	VBG
 about	RB
-"	VBG
+"	VB
 the	DT
 General	NNP
 ,	,
@@ -14208,7 +14208,7 @@ about	IN
 his	PRP$
 positions	NNS
 :	:
-"	VBG
+"	NN
 Edwards	NNP
 believes	VBZ
 that	IN
@@ -14372,7 +14372,7 @@ mindedness	NN
 ,	,
 so	RB
 many	JJ
-weasel	JJ
+weasel	NN
 words	NNS
 .	.
 
@@ -14413,7 +14413,7 @@ The	DT
 answer	NN
 is	VBZ
 ,	,
-"	UH
+"	VBZ
 Yes	UH
 !	.
 "	NN
@@ -14473,7 +14473,7 @@ latter	NN
 spoke	VBD
 of	IN
 the	DT
-al	VB
+al	JJ
 -	HYPH
 Qaeda	NNP
 threat	NN
@@ -14517,7 +14517,7 @@ bombing	NN
 If	IN
 you	PRP
 believe	VBP
-crackpot	JJS
+crackpot	NN
 theories	NNS
 instead	RB
 of	IN
@@ -14529,7 +14529,7 @@ reality	NN
 that	WDT
 was	VBD
 an	DT
-al	VB
+al	JJ
 -	HYPH
 Qaeda	NNP
 operation	NN
@@ -14673,7 +14673,7 @@ hijackers	NNS
 and	CC
 other	JJ
 terrorists	NNS
-gunning	JJ
+gunning	VBG
 for	IN
 the	DT
 United	NNP
@@ -14802,7 +14802,7 @@ and	CC
 focused	VBN
 of	IN
 the	DT
-al	VB
+al	JJ
 -	HYPH
 Qaeda	NNP
 experts	NNS
@@ -14927,7 +14927,7 @@ Pakistan	NNP
 .	.
 
 I	PRP
-presume	VBP
+presume	VB
 you	PRP
 need	VBP
 the	DT
@@ -15280,7 +15280,7 @@ of	IN
 shrapnel	NN
 in	IN
 the	DT
-forearm	VB
+forearm	NN
 that	WDT
 caused	VBD
 only	RB
@@ -15746,7 +15746,7 @@ Whether	IN
 he	PRP
 was	VBD
 actually	RB
-AWOL	NNP
+AWOL	JJ
 during	IN
 this	DT
 stint	NN
@@ -16616,7 +16616,7 @@ fact	NN
 ,	,
 when	WRB
 I	PRP
-broached	VBN
+broached	VBD
 the	DT
 subject	NN
 with	IN
@@ -17201,7 +17201,7 @@ the	DT
 sheikh	NN
 of	IN
 the	DT
-mujahideen	JJ
+mujahideen	VBN
 Osama	NNP
 bin	FW
 Laden	NNP
@@ -17440,7 +17440,7 @@ by	IN
 Egyptians	NNPS
 from	IN
 the	DT
-al	VB
+al	JJ
 -	HYPH
 Jihad	NNP
 al	JJ
@@ -17502,7 +17502,7 @@ Saudi	JJ
 Zarqawi	NNP
 is	VBZ
 a	DT
-Jordanian	NNP
+Jordanian	JJ
 ,	,
 and	CC
 his	PRP$
@@ -17755,7 +17755,7 @@ met	VBD
 with	IN
 September	NNP
 11	CD
-ringleader	NN
+ringleader	JJR
 Muhammad	NNP
 Atta	NNP
 ,	,
@@ -17814,7 +17814,7 @@ out	RP
 of	IN
 the	DT
 Allawi	NNP
-caretaker	NN
+caretaker	JJR
 government	NN
 .	.
 
@@ -19759,7 +19759,7 @@ the	DT
 fallout	NN
 .	.
 
-UPDATE	NNP
+UPDATE	NN
 :	:
 
 Now	RB
@@ -20072,7 +20072,7 @@ Lessons	NNPS
 learned	VBN
 .	.
 which	WDT
-contradict	VB
+contradict	VBP
 the	DT
 earlier	JJR
 reports	NNS
@@ -20091,7 +20091,7 @@ in	IN
 radiation	NN
 -	HYPH
 induced	VBN
-thyroid	JJ
+thyroid	VBD
 cancers	NNS
 in	IN
 children	NNS
@@ -20149,7 +20149,7 @@ deterioration	NN
 in	IN
 neonatal	JJ
 health	NN
-....	JJ
+....	NN
 
 The	DT
 dynamics	NNS
@@ -20317,35 +20317,35 @@ http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	VB
 
 http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	CD
 
-http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	VB
+http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	NN
 
 http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	VB
 
-http://digon_va.tripod.com/Chernobyl.htm	VB
+http://digon_va.tripod.com/Chernobyl.htm	NN
 
 http://www.oneworld.org/index_oc/issue196/byckau.html	VB
 
 http://www.collectinghistory.net/chernobyl/	NN
 
-http://www.ukrainianweb.com/chernobyl_ukraine.htm	VB
+http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
 http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	VB
 
-http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	VB
+http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
 
 http://www.infoukes.com/history/chornobyl/gregorovich/index.html	VB
 
 http://www.un.org/ha/chernobyl/	NN
 
-http://www.tecsoc.org/pubs/history/2002/apr26.htm	VB
+http://www.tecsoc.org/pubs/history/2002/apr26.htm	NN
 
-http://www.chernobyl.org.uk/page2.htm	VB
+http://www.chernobyl.org.uk/page2.htm	NN
 
 http://www.time.com/time/daily/chernobyl/860901.accident.html	VB
 
 http://www.infoukes.com/history/chornobyl/elg/	NN
 
-http://www.world-nuclear.org/info/chernobyl/inf07.htm	VB
+http://www.world-nuclear.org/info/chernobyl/inf07.htm	NN
 
 http://www.nea.fr/html/rp/chernobyl/conclusions5.html	VB
 
@@ -20353,11 +20353,11 @@ http://www.nea.fr/html/rp/chernobyl/c01.html	VB
 
 http://www.nea.fr/html/rp/chernobyl/c05.html	VB
 
-http://www.physics.isu.edu/radinf/chern.htm	VB
+http://www.physics.isu.edu/radinf/chern.htm	NN
 
 http://www.chernobyl.info/en	VB
 
-http://www.arps.org.au/Chernobyl.htm	VB
+http://www.arps.org.au/Chernobyl.htm	NN
 
 http://www-formal.stanford.edu/jmc/progress/chernobyl.html	VB
 
@@ -20433,7 +20433,7 @@ but	CC
 stopped	VBD
 the	DT
 treatments	NNS
-....	JJ
+....	NN
 
 Remember	VB
 the	DT
@@ -20487,7 +20487,7 @@ of	IN
 radiation	NN
 in	IN
 Chernobyl	NNP
-.......	JJ
+.......	NN
 
 The	DT
 Chernobyl	NNP
@@ -20824,7 +20824,7 @@ to	IN
 the	DT
 advancement	NN
 of	IN
-Firefox	NNPS
+Firefox	NNP
 ,	,
 the	DT
 Mozilla	NNP
@@ -21237,7 +21237,7 @@ the	DT
 leading	JJ
 lights	NNS
 in	IN
-Firefox	NNPS
+Firefox	NNP
 development	NN
 ,	,
 they	PRP
