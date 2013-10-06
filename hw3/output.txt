@@ -172,8 +172,8 @@ for	IN
 the	DT
 suckups	NNS
 to	TO
-suck	VB
-up	RP
+suck	VBN
+up	RB
 ,	,
 but	CC
 this	DT
@@ -204,8 +204,8 @@ they	PRP
 hear	VBP
 a	DT
 company	NN
-who's	FW
-stated	JJ
+who's	VBZ
+stated	VBN
 goals	NNS
 include	VBP
 "	NNS
@@ -442,7 +442,7 @@ hands	NNS
 However	RB
 ,	,
 this	DT
-toolbar	FW
+toolbar	NN
 is	VBZ
 really	RB
 bad	JJ
@@ -636,8 +636,8 @@ It	PRP
 a	DT
 little	RB
 hard	JJ
-to	IN
-parse	NN
+to	TO
+parse	VB
 ,	,
 but	CC
 at	IN
@@ -1776,7 +1776,7 @@ Vince	NNP
 Cannistaro	NNP
 and	CC
 Buck	NNP
-Revell	NNP
+Revell	UH
 .	.
 
 Peter	NNP
@@ -2478,7 +2478,7 @@ be	VB
 
 I	PRP
 like	VBP
-yuor	FW
+yuor	NN
 blog	NN
 .	.
 
@@ -2499,7 +2499,7 @@ that	WDT
 's	VBZ
 a	DT
 great	JJ
-blog	VBG
+blog	NN
 ,	,
 I	PRP
 also	RB
@@ -2527,7 +2527,7 @@ This	DT
 is	VBZ
 a	DT
 excellent	JJ
-blog	VBG
+blog	NN
 .	.
 
 Keep	VB
@@ -2700,7 +2700,7 @@ Catch	NN
 Is	VBZ
 That	IN
 You	PRP
-HAVE	VBP
+HAVE	JJ
 To	TO
 Have	VB
 An	DT
@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	FW
 You	PRP
-HAVE	VBP
+HAVE	JJ
 To	TO
 Follow	VB
 The	DT
@@ -3355,7 +3355,7 @@ beneath	IN
 the	DT
 media	NNS
 's	POS
-frothing	VBG
+frothing	NN
 triviality	NN
 .	.
 
@@ -3480,7 +3480,7 @@ symbol	NN
 .	.
 
 An	DT
-altar	JJR
+altar	JJ
 cloth	NN
 was	VBD
 draped	VBN
@@ -3570,8 +3570,8 @@ Abused	VBD
 by	IN
 Priests	NNPS
 [	NN
-SNAP	NNP
-]	CD
+SNAP	VBP
+]	NNS
 ,	,
 who	WP
 had	VBD
@@ -4227,7 +4227,7 @@ Poverty	NNP
 Law	NNP
 Center	NNP
 's	POS
-"	CD
+"	JJ
 Intelligence	NNP
 Report	NNP
 .	.
@@ -4581,7 +4581,7 @@ new	JJ
 husband	NN
 .	.
 
-Husbands	NNS
+Husbands	NNPS
 marry	VB
 mothers	NNS
 and	CC
@@ -5410,7 +5410,7 @@ that	DT
 
 http://www.laweekly.com/general/features/satan-loves-you/13454/	NN
 
-"	VBG
+"	VB
 Another	DT
 generation	NN
 of	IN
@@ -5679,7 +5679,7 @@ They	PRP
 were	VBD
 death	NN
 metal	NN
-brainwashed	JJ
+brainwashed	VBN
 fans	NNS
 ,	,
 literally	RB
@@ -6405,7 +6405,7 @@ son	NN
 disappearance	NN
 .	.
 
-"	VBG
+"	VB
 No	DT
 one	NN
 can	MD
@@ -8187,7 +8187,7 @@ Sub-cultures	NNPS
 (	(
 as	RB
 the	DT
-lable	NN
+lable	JJ
 implies	VBZ
 )	)
 do	VBP
@@ -8277,7 +8277,7 @@ respect	NN
 for	IN
 people	NNS
 who	WP
-adhear	VBP
+adhear	VB
 to	TO
 non-violence	NN
 ,	,
@@ -8417,7 +8417,7 @@ from	IN
 Dan	NNP
 Froomkin	NNP
 's	POS
-"	CD
+"	JJ
 White	NNP
 House	NNP
 Briefing	VBG
@@ -8893,7 +8893,7 @@ Applause	NN
 .	.
 )	)
 
-"	VBG
+"	VB
 The	DT
 book	NN
 --	:
@@ -9703,7 +9703,7 @@ Iraq	NNP
 
 America	NNP
 cried	VBN
-wolf	PRP
+wolf	NN
 in	IN
 Iraq	NNP
 ,	,
@@ -9718,7 +9718,7 @@ or	CC
 later	RBR
 ,	,
 that	WDT
-wolf	PRP
+wolf	NN
 will	MD
 probably	RB
 get	VB
@@ -11147,7 +11147,7 @@ Sharon	NNP
 murder	NN
 of	IN
 Sheikh	UH
-Ahmed	NNP
+Ahmed	VBN
 Yassin	NNP
 ,	,
 a	DT
@@ -11839,7 +11839,7 @@ taking	VBG
 in	IN
 people	NNS
 like	IN
-Yaqubi	FW
+Yaqubi	NNP
 .	.
 
 This	DT
@@ -12843,7 +12843,7 @@ Israeli	JJ
 assassination	NN
 of	IN
 Sheikh	UH
-Ahmed	NNP
+Ahmed	VBN
 Yassin	NNP
 ,	,
 the	DT
@@ -13046,7 +13046,7 @@ Palestinians	NNPS
 and	CC
 those	DT
 in	IN
-post-Saddam	JJ
+post-Saddam	VBP
 Iraq	NNP
 are	VBP
 no	DT
@@ -13614,7 +13614,7 @@ Pakistan	NNP
 also	RB
 said	VBD
 :	:
-"	VBG
+"	VB
 The	DT
 new	JJ
 Pakistani	JJ
@@ -15454,7 +15454,7 @@ the	DT
 disastrous	JJ
 siege	NN
 of	IN
-Fallujah	UH
+Fallujah	NNP
 last	JJ
 spring	NN
 ,	,
@@ -16068,7 +16068,7 @@ Worker	NNP
 He	PRP
 would	MD
 wear	VB
-khaki	FW
+khaki	JJ
 trousers	NNS
 and	CC
 some	DT
@@ -16931,7 +16931,7 @@ frankly	RB
 inappropriate	JJ
 .	.
 
-GOODWYN	NN
+GOODWYN	NNP
 :	:
 According	VBG
 to	IN
@@ -17576,7 +17576,7 @@ early	JJ
 companions	NNS
 of	IN
 the	DT
-Prophet	NNP
+Prophet	VB
 Muhammad	UH
 .	.
 
@@ -18233,7 +18233,7 @@ noncombatants	NNS
 ,	,
 including	VBG
 Shaikh	UH
-Abdul	NNP
+Abdul	UH
 Wahhab	NNP
 al	JJ
 -	HYPH
@@ -18265,7 +18265,7 @@ some	DT
 persons	NNS
 dead	JJ
 in	IN
-Mosul	NNP
+Mosul	UH
 ,	,
 Baiji	NNP
 ,	,
@@ -18358,7 +18358,7 @@ them	PRP
 if	IN
 the	DT
 Fallujah	UH
-compaign	VB
+compaign	NN
 is	VBZ
 not	RB
 stopped	VBN
@@ -18837,7 +18837,7 @@ Syrian	JJ
 border	NN
 .	.
 
-[	VBG
+[	VB
 This	DT
 killing	NN
 of	IN
@@ -19047,7 +19047,7 @@ after	IN
 kidnapping	NN
 him	PRP
 in	IN
-Mosul	NNP
+Mosul	UH
 .	.
 
 The	DT
@@ -19064,7 +19064,7 @@ declined	VBN
 80	CD
 percent	NN
 in	IN
-Mosul	NNP
+Mosul	UH
 ,	,
 whereas	IN
 there	EX
@@ -20895,7 +20895,7 @@ Me	PRP
 and	CC
 the	DT
 big	JJ
-"	JJ
+"	NN
 G	NNP
 "	NN
 
@@ -21267,7 +21267,7 @@ voice	NN
 will	MD
 be	VB
 heard	VBN
-admidst	VB
+admidst	NN
 the	DT
 higher	JJR
 echelons	NNS
